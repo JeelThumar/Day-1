@@ -1,0 +1,42 @@
+
+body{
+    background-color: cadetblue;
+}
+#box{ 
+    padding: 2rem;
+    background-color:ghostwhite;
+    border-radius: .5rem;
+    text-align: center;
+    margin: 3rem;
+    margin:3rem 4rem 0 4rem;
+    border: 0.1cm solid;
+    border-color: black;
+     
+}
+
+#box .flex{
+    display: flex;
+    margin: 2rem;
+}
+
+#box h1{
+    font-size: 3rem;
+    font-family:'Times New Roman', Times, serif;
+
+}
+#box a{
+    font-size: 1.5rem;
+}
+
+#box .desc{
+    text-align: right;
+    display: flex;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+
+#box img{
+    width: 320px; 
+    border-radius: 0.5rem;
+    margin-left: 2rem;
+}
